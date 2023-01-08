@@ -5,8 +5,6 @@ def solve(n:int, numArrays:list) -> int:
             count += 1
     return count
 
-
-
 t = int(input())
 
 for i in range(t):
